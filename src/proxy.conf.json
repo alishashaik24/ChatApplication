@@ -1,0 +1,6 @@
+{
+    "/api": {
+        "target": "https://frozen-brook-09618.herokuapp.com",
+        "secure": false
+    }
+}
